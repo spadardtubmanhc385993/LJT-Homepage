@@ -27,6 +27,7 @@ Academic Background
   * First-year Ph.D. candidate at the HKUST NLP Group, supervised by Professor Junxian He
 * B.Eng., Shanghai Jiao Tong University, 2020 - 2024
   * Graduated from Shanghai Jiao Tong University (SJTU) in June 2024
+  * Advised by Professor Junxian He during undergraduate studies at SJTU
   * Received the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
 
 Research Experience
@@ -41,10 +42,10 @@ Publications
 ======
 * Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond". <i>Arxiv</i>, 2025. (First author; code available on GitHub)
 * Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding". <i>Arxiv</i>, 2025. (First author; code available on GitHub: Vision4Chart)
-* Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. "On the Universal Truthfulness Hyperplane Inside LLMs". <i>EMNLP 2024</i>, 2024. (First author; code available on GitHub: Universal_Truthfulness_Hyperplane)
-* Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation". <i>ICML 2024</i>, 2024.
-* Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models". <i>NeurIPS 2023</i>, 2023.
-* Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations". <i>NeurIPS 2023</i>, 2023.
+* Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. "On the Universal Truthfulness Hyperplane Inside LLMs". <i>EMNLP 2024</i> (Conference on Empirical Methods in Natural Language Processing), 2024. (First author; code available on GitHub: Universal_Truthfulness_Hyperplane)
+* Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation". <i>ICML 2024</i> (International Conference on Machine Learning), 2024.
+* Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models". <i>NeurIPS 2023</i> (Neural Information Processing Systems), 2023.
+* Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations". <i>NeurIPS 2023</i> (Neural Information Processing Systems), 2023.
 
 Contact
 ======
